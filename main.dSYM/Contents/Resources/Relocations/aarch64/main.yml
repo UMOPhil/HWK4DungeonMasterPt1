@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/philipramos/Documents/COS135/hwk4-dungeonmasterpt1/main'
+relocations:     []
+...
